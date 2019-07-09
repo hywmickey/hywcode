@@ -26,26 +26,42 @@ Json data saved in the file
       :language: javascript
 
 .. code-block:: php
-<?php
+   class tool {
 
-//  http://baichuan.baidu.com:8666/editzuoye/flexibleapi/usernnionmodify
+       public function sendFileByHttp($appname) {
 
-class tool {
+           $arrDirs = array(
+               'editzuoye' => array(
+                   'localDir' => '/Users/baidu/Documents/git/editzuoye/',
+                   'remoteDir' => "/home/iknow/odp_hyw/app/editzuoye",
+               ),
+               'praxis' => array(
+                   'localDir' => '/Users/baidu/Documents/git/praxis/',
+                   'remoteDir' => "/home/iknow/odp_hyw/app/praxis",
+               ),
+               'papercompare' => array(
+                   'localDir' => '/Users/baidu/Documents/git/papercompare/',
+                   'remoteDir' => "/home/iknow/odp_hyw/app/editzuoye",
+               ),
+               'edzyFix' => array(
+                   'localDir' => '/Users/baidu/Documents/git/edzyFix/',
+                   'remoteDir' => "/home/iknow/odp_hyw/app/editzuoye",
+               ),
+               'lecturemis' => array(
+                   'localDir' => '/Users/baidu/Documents/git/lecturemis/',
+                   'remoteDir' => "/home/iknow/odp_cw/app/lecturemis",
+               ),
+               'tikuresapi' => array(
+                   'localDir' => '/Users/baidu/Documents/git/tikuresapi/',
+                   'remoteDir' => "/home/iknow/odp_hyw/app/tikuresapi",
+               ),
 
-    public function sendFileByHttp($appname) {
+               'bcproduceowapi' => array(
+                               'localDir' => '/Users/baidu/Documents/git/bcproduceowapi/',
+                               'remoteDir' => "/home/iknow/odp_hyw/app/bcproduceowapi",
+                               //'remoteDir' => "/home/iknow/odp_cmq/app/bcproduceowapi",
+               ),
 
-        $arrDirs = array(
-            'editzuoye' => array(
-                'localDir' => '/Users/baidu/Documents/git/editzuoye/',
-                'remoteDir' => "/home/iknow/odp_hyw/app/editzuoye",
-            ),
-            'praxis' => array(
-                'localDir' => '/Users/baidu/Documents/git/praxis/',
-                'remoteDir' => "/home/iknow/odp_hyw/app/praxis",
-            ),
-            'papercompare' => array(
-                'localDir' => '/Users/baidu/Documents/git/papercompare/',
-                'remoteDir' => "/home/iknow/odp_hyw/app/editzuoye",
-            ),
+
+           );
       }
- }
