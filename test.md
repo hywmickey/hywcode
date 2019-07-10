@@ -1,4 +1,9 @@
+[TOC]
+
+
+
 ## nac diwb
+
 this is a software
 ## this is title 1
 
@@ -6,15 +11,33 @@ this is a software
 
 this is 
 
+this is a 
+
+
+
+hahaa 
+
 ​    这里  有个    空壳
 
 this 
+$$
+\begin{cases}
+a_1x+b_1y+c_1z=d_1\\
+a_2x+b_2y+c_2z=d_2\\
+a_3x+b_3y+c_3z=d_3\\
 
+
+\end{cases}
+$$
 
 shtis 
 
+　　这个是一个篇$P=\frac {{U}^{2}} {R}$短文一
 
-　　这个是一个篇短文一个篇短文一个篇短文一个篇短文一个篇短文一个篇短文一个篇短文一个篇短文一个篇短文一个篇短文一个篇短文一个篇短文一个篇短文一个篇短文一个篇短文一个篇短文一个篇短文一个篇短文一个篇短文
+
+
+
+文一个篇短文一个篇短文一个篇短$\begin{cases}a_1x+b_1y+c_1z=d_1\\a_2x+b_2y+c_2z=d_2\\a_3x+b_3y+c_3z=d_3\\\end{cases} $文一个篇短文一个篇短文一个篇短文一个篇短文一个篇短文
 
 
 
@@ -22,10 +45,18 @@ shtis
 	print("Hello, World!");
 thisis a  
 
-	main{
-		int i;
-		int j;
-	}
+```c
+main{
+	int i;
+	int j;
+}
+```
+
+| vol12   | vp2    | von3 |
+| ------- | ------ | ---- |
+| sgfs    | fdsfds | ffs  |
+| fds     | gfsg   | fds  |
+| fdsgfds | fsgfds | fs   |
 
 
 
@@ -33,6 +64,13 @@ thisis a
 	hiss
 
    
+
+
+
+
+
+
+
 
 
     thz
