@@ -9,11 +9,11 @@ this is a software
 
 this is 
 
-​	大
+?	大
 
-​	
+?	
 
-​	
+?	
 
 this is a 
 
@@ -40,7 +40,7 @@ Bob-->Alice: I am good thanks!
 
 hahaa 
 
-​    这里  有个    空壳
+?    这里  有个    空壳
 
 ```mermaid
 %% Example with slection of syntaxes
