@@ -1,0 +1,316 @@
+[
+	{
+		"enabled": true,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
+		"installDate": 1577764059001,
+		"name": "wiki.afpai.com",
+		"sections": [
+			{
+				"code": "body {\n    font-family:'Courier New','Kai';\n    font-size: 20px;\n}\n\n.wiki-content h1 {\n    font-size:36px;\n}\n.wiki-content h2 {\n    font-size:32px;\n}\n\n.wiki-content h3 {\n    font-size:28px;\n}\n\n.wiki-content h4 {\n    font-size:24px;\n}\n\n.wiki-content h5 {\n    font-size:20px;\n}\n\np {\n    font-size:20px;\n}",
+				"urlPrefixes": [
+					"http://wiki.afpai.com/"
+				]
+			},
+			{
+				"code": "",
+				"urlPrefixes": [
+					"http://example.com"
+				]
+			},
+			{
+				"code": "",
+				"urlPrefixes": [
+					"http://example.com"
+				]
+			},
+			{
+				"code": "",
+				"urlPrefixes": [
+					"http://example.com"
+				]
+			},
+			{
+				"code": "",
+				"urlPrefixes": [
+					"http://example.com"
+				]
+			},
+			{
+				"code": "",
+				"urlPrefixes": [
+					"http://example.com"
+				]
+			},
+			{
+				"code": "",
+				"urlPrefixes": [
+					"http://example.com"
+				]
+			},
+			{
+				"code": "",
+				"urlPrefixes": [
+					"http://example.com"
+				]
+			},
+			{
+				"code": "",
+				"urlPrefixes": [
+					"http://example.com"
+				]
+			}
+		],
+		"updateDate": 1577950932686,
+		"id": 1
+	},
+	{
+		"enabled": true,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
+		"installDate": 1577764457404,
+		"name": "github.com",
+		"sections": [
+			{
+				"code": ".markdown-body{\n    font-family:'Courier New','Kai';\n    font-size:24px;\n    \n}\n\ncode, pre, tt {\n    font-family:'Courier New','Kai';\n}",
+				"urlPrefixes": [
+					"https://github.com/hywmickey/"
+				]
+			}
+		],
+		"updateDate": 1577770794803,
+		"id": 2
+	},
+	{
+		"enabled": true,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
+		"installDate": 1577777812440,
+		"name": "jira.afpai.com",
+		"sections": [
+			{
+				"code": "body {\n    font-family:'Courier New','Kai';\n}\n",
+				"urlPrefixes": [
+					"http://jira.afpai.com/"
+				]
+			}
+		],
+		"updateDate": 1577777829387,
+		"id": 3
+	},
+	{
+		"enabled": true,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
+		"installDate": 1577780116976,
+		"name": "linux.cn",
+		"sections": [
+			{
+				"code": "body, h1,h2,h3{\n    font-family:'Courier New','Kai';\n}",
+				"urlPrefixes": [
+					"https://linux.cn/"
+				]
+			}
+		],
+		"updateDate": 1577780164625,
+		"id": 4
+	},
+	{
+		"enabled": true,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
+		"installDate": 1577780253722,
+		"name": "php.net",
+		"sections": [
+			{
+				"code": "body, h1,h2,h3, code, pre.info, .docs .classsynopsis, .docs .classsynopsis code{\n    font-family:'Courier New','Kai';\n}",
+				"domains": [
+					"php.net"
+				]
+			}
+		],
+		"updateDate": 1578049647876,
+		"id": 5
+	},
+	{
+		"enabled": true,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
+		"installDate": 1577780318502,
+		"name": "mysql.com",
+		"sections": [
+			{
+				"code": "body, h1,h2,h3{\n    font-family:'Courier New','Kai';\n}",
+				"domains": [
+					"mysql.com"
+				]
+			}
+		],
+		"updateDate": 1577780318502,
+		"id": 6
+	},
+	{
+		"enabled": true,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
+		"installDate": 1577780506116,
+		"name": "ef.com",
+		"sections": [
+			{
+				"code": "body, h1,h2,h3{\n    font-family:'Courier New','Kai';\n}",
+				"domains": [
+					"ef.com"
+				]
+			}
+		],
+		"updateDate": 1577780506116,
+		"id": 7
+	},
+	{
+		"enabled": true,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
+		"installDate": 1577790051871,
+		"name": "qq.com",
+		"sections": [
+			{
+				"code": "body, .toc-link {\n    font-family:'Courier New','Kai';\n}",
+				"domains": [
+					"qq.com"
+				]
+			}
+		],
+		"updateDate": 1577790638084,
+		"id": 8
+	},
+	{
+		"enabled": true,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
+		"installDate": 1577790825512,
+		"name": "note.youdao.com",
+		"sections": [
+			{
+				"code": "",
+				"urlPrefixes": [
+					"https://note.youdao.com/web/#/"
+				]
+			}
+		],
+		"updateDate": 1577790850624,
+		"id": 9
+	},
+	{
+		"enabled": true,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
+		"installDate": 1577791162116,
+		"name": "oxfordlearnersdictionaries.com",
+		"sections": [
+			{
+				"code": "iframe {\n    display:none;\n}",
+				"domains": [
+					"oxfordlearnersdictionaries.com"
+				]
+			}
+		],
+		"updateDate": 1577791162116,
+		"id": 10
+	},
+	{
+		"enabled": true,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
+		"installDate": 1578049766496,
+		"name": "runoob.com",
+		"sections": [
+			{
+				"code": ".article-body p {\n    font-family:'Courier New','Kai';\n    font-size:16px;\n}\n.article-body h2 {\n     font-family:'Courier New','Kai';\n}\nbody {\n    font-family:'Courier New','Kai';\n}",
+				"domains": [
+					"runoob.com"
+				]
+			}
+		],
+		"updateDate": 1578049957126,
+		"id": 11
+	},
+	{
+		"enabled": true,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
+		"installDate": 1578149352209,
+		"name": "baike.baidu.com",
+		"sections": [
+			{
+				"code": "",
+				"domains": [
+					"https://baike.baidu.com/"
+				]
+			}
+		],
+		"updateDate": 1578149690832,
+		"id": 12
+	},
+	{
+		"enabled": true,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
+		"installDate": 1578235907133,
+		"name": "github.com",
+		"sections": [
+			{
+				"code": "body, h1,h2,h3{\n    font-family:'Courier New','Kai';\n}",
+				"urlPrefixes": [
+					"https://github.com/"
+				]
+			}
+		],
+		"updateDate": 1578235907133,
+		"id": 13
+	},
+	{
+		"enabled": true,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
+		"installDate": 1578238122816,
+		"name": "hao123.com",
+		"sections": [
+			{
+				"code": "body {\n    margin-left:-10000px;\n}\n\ntopbeWrapper, .rightTip {\n    display:none;\n}\n\n.bottom-banner-link,.bottom-banner-linkv2{\n    display:none;\n}",
+				"domains": [
+					"hao123.com"
+				]
+			}
+		],
+		"updateDate": 1578238742168,
+		"id": 14
+	}
+]
