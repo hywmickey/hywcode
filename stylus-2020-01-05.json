@@ -9,7 +9,7 @@
 		"name": "wiki.afpai.com",
 		"sections": [
 			{
-				"code": "body {\n    font-family:'Courier New','Kai';\n    font-size: 20px;\n}\n\n.wiki-content h1 {\n    font-size:36px;\n}\n.wiki-content h2 {\n    font-size:32px;\n}\n\n.wiki-content h3 {\n    font-size:28px;\n}\n\n.wiki-content h4 {\n    font-size:24px;\n}\n\n.wiki-content h5 {\n    font-size:20px;\n}\n\np {\n    font-size:20px;\n}",
+				"code": "body {\n    font-family:'Courier New','Weibei SC';\n    font-size: 20px;\n}\n\n.wiki-content h1 {\n    font-size:36px;\n}\n.wiki-content h2 {\n    font-size:32px;\n}\n\n.wiki-content h3 {\n    font-size:28px;\n}\n\n.wiki-content h4 {\n    font-size:24px;\n}\n\n.wiki-content h5 {\n    font-size:20px;\n}\n\np {\n    font-size:20px;\n}",
 				"urlPrefixes": [
 					"http://wiki.afpai.com/"
 				]
@@ -76,7 +76,7 @@
 		"name": "github.com",
 		"sections": [
 			{
-				"code": ".markdown-body{\n    font-family:'Courier New','Kai';\n    font-size:24px;\n    \n}\n\ncode, pre, tt {\n    font-family:'Courier New','Kai';\n}",
+				"code": ".markdown-body{\n    font-family:'Courier New','Weibei SC';\n    font-size:24px;\n    \n}\n\ncode, pre, tt {\n    font-family:'Courier New','Weibei SC';\n}",
 				"urlPrefixes": [
 					"https://github.com/hywmickey/"
 				]
@@ -95,7 +95,7 @@
 		"name": "jira.afpai.com",
 		"sections": [
 			{
-				"code": "body {\n    font-family:'Courier New','Kai';\n}\n",
+				"code": "body {\n    font-family:'Courier New','Weibei SC';\n}\n",
 				"urlPrefixes": [
 					"http://jira.afpai.com/"
 				]
@@ -114,7 +114,7 @@
 		"name": "linux.cn",
 		"sections": [
 			{
-				"code": "body, h1,h2,h3{\n    font-family:'Courier New','Kai';\n}",
+				"code": "body, h1,h2,h3{\n    font-family:'Courier New','Weibei SC';\n}",
 				"urlPrefixes": [
 					"https://linux.cn/"
 				]
@@ -133,7 +133,7 @@
 		"name": "php.net",
 		"sections": [
 			{
-				"code": "body, h1,h2,h3, code, pre.info, .docs .classsynopsis, .docs .classsynopsis code{\n    font-family:'Courier New','Kai';\n}",
+				"code": "body, h1,h2,h3, code, pre.info, .docs .classsynopsis, .docs .classsynopsis code{\n    font-family:'Courier New','Weibei SC';\n}",
 				"domains": [
 					"php.net"
 				]
@@ -152,7 +152,7 @@
 		"name": "mysql.com",
 		"sections": [
 			{
-				"code": "body, h1,h2,h3{\n    font-family:'Courier New','Kai';\n}",
+				"code": "body, h1,h2,h3{\n    font-family:'Courier New','Weibei SC';\n}",
 				"domains": [
 					"mysql.com"
 				]
@@ -171,7 +171,7 @@
 		"name": "ef.com",
 		"sections": [
 			{
-				"code": "body, h1,h2,h3{\n    font-family:'Courier New','Kai';\n}",
+				"code": "body, h1,h2,h3{\n    font-family:'Courier New','Weibei SC';\n}",
 				"domains": [
 					"ef.com"
 				]
@@ -190,7 +190,7 @@
 		"name": "qq.com",
 		"sections": [
 			{
-				"code": "body, .toc-link {\n    font-family:'Courier New','Kai';\n}",
+				"code": "body, .toc-link {\n    font-family:'Courier New','Weibei SC';\n}",
 				"domains": [
 					"qq.com"
 				]
@@ -247,7 +247,7 @@
 		"name": "runoob.com",
 		"sections": [
 			{
-				"code": ".article-body p {\n    font-family:'Courier New','Kai';\n    font-size:16px;\n}\n.article-body h2 {\n     font-family:'Courier New','Kai';\n}\nbody {\n    font-family:'Courier New','Kai';\n}",
+				"code": ".article-body p {\n    font-family:'Courier New','Weibei SC';\n    font-size:16px;\n}\n.article-body h2 {\n     font-family:'Courier New','Weibei SC';\n}\nbody {\n    font-family:'Courier New','Weibei SC';\n}",
 				"domains": [
 					"runoob.com"
 				]
@@ -285,7 +285,7 @@
 		"name": "github.com",
 		"sections": [
 			{
-				"code": "body, h1,h2,h3{\n    font-family:'Courier New','Kai';\n}",
+				"code": "body, h1,h2,h3{\n    font-family:'Courier New','Weibei SC';\n}",
 				"urlPrefixes": [
 					"https://github.com/"
 				]
