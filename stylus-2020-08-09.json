@@ -1,0 +1,533 @@
+[
+	{
+		"enabled": true,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
+		"installDate": 1577764059001,
+		"name": "wiki.zuoyebang.cc",
+		"sections": [
+			{
+				"code": "body {\n    font-family:'Courier New','Weibei SC';\n    font-size: 20px;\n}\n\n.wiki-content h1 {\n    font-size:36px;\n}\n.wiki-content h2 {\n    font-size:32px;\n}\n\n.wiki-content h3 {\n    font-size:28px;\n}\n\n.wiki-content h4 {\n    font-size:24px;\n}\n\n.wiki-content h5 {\n    font-size:20px;\n}\n\np {\n    font-size:20px;\n}",
+				"urlPrefixes": [
+					"http://wiki.zuoyebang.cc/"
+				]
+			},
+			{
+				"code": "",
+				"urlPrefixes": [
+					"http://example.com"
+				]
+			},
+			{
+				"code": "",
+				"urlPrefixes": [
+					"http://example.com"
+				]
+			},
+			{
+				"code": "",
+				"urlPrefixes": [
+					"http://example.com"
+				]
+			},
+			{
+				"code": "",
+				"urlPrefixes": [
+					"http://example.com"
+				]
+			},
+			{
+				"code": "",
+				"urlPrefixes": [
+					"http://example.com"
+				]
+			},
+			{
+				"code": "",
+				"urlPrefixes": [
+					"http://example.com"
+				]
+			},
+			{
+				"code": "",
+				"urlPrefixes": [
+					"http://example.com"
+				]
+			},
+			{
+				"code": "",
+				"urlPrefixes": [
+					"http://example.com"
+				]
+			}
+		],
+		"updateDate": 1583913626955,
+		"id": 1,
+		"_id": "b0fe8b11-722b-4b62-b9a8-e7604d085898",
+		"_rev": 1583913626956
+	},
+	{
+		"enabled": true,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
+		"installDate": 1577764457404,
+		"name": "github.com",
+		"sections": [
+			{
+				"code": ".markdown-body{\n    font-family:'Courier New','Weibei SC';\n    font-size:24px;\n    \n}\n\ncode, pre, tt {\n    font-family:'Courier New','Weibei SC';\n}",
+				"urlPrefixes": [
+					"https://github.com/hywmickey/"
+				]
+			}
+		],
+		"updateDate": 1577770794803,
+		"id": 2,
+		"_id": "e66ea142-dcd8-4235-9273-6a25cba59607",
+		"_rev": 1581322607071
+	},
+	{
+		"enabled": true,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
+		"installDate": 1577780116976,
+		"name": "linux.cn",
+		"sections": [
+			{
+				"code": "body, h1,h2,h3{\n    font-family:'Courier New','Weibei SC';\n}",
+				"urlPrefixes": [
+					"https://linux.cn/"
+				]
+			}
+		],
+		"updateDate": 1577780164625,
+		"id": 4,
+		"_id": "7f224d11-d69d-41b6-9184-ee2846bc9045",
+		"_rev": 1581322607071
+	},
+	{
+		"enabled": true,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
+		"installDate": 1577780253722,
+		"name": "php.net",
+		"sections": [
+			{
+				"code": "body, h1,h2,h3, code, pre.info, .docs .classsynopsis, .docs .classsynopsis code{\n    font-family:'Courier New','Weibei SC';\n}",
+				"domains": [
+					"php.net"
+				]
+			}
+		],
+		"updateDate": 1578049647876,
+		"id": 5,
+		"_id": "e1e7167c-3c5f-4c2b-91d4-c11185ac47d1",
+		"_rev": 1581322607071
+	},
+	{
+		"enabled": true,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
+		"installDate": 1577780318502,
+		"name": "mysql.com",
+		"sections": [
+			{
+				"code": "body, h1,h2,h3{\n    font-family:'Courier New','Weibei SC';\n}",
+				"domains": [
+					"mysql.com"
+				]
+			}
+		],
+		"updateDate": 1577780318502,
+		"id": 6,
+		"_id": "e527897e-0a1a-4dc8-a121-e018c6091b57",
+		"_rev": 1581322607071
+	},
+	{
+		"enabled": true,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
+		"installDate": 1577780506116,
+		"name": "ef.com",
+		"sections": [
+			{
+				"code": "body, h1,h2,h3{\n    font-family:'Courier New','Weibei SC';\n}",
+				"domains": [
+					"ef.com"
+				]
+			}
+		],
+		"updateDate": 1577780506116,
+		"id": 7,
+		"_id": "df2b2347-f74d-464d-b7b6-d48e7f28803a",
+		"_rev": 1581322607071
+	},
+	{
+		"enabled": true,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
+		"installDate": 1577790051871,
+		"name": "qq.com",
+		"sections": [
+			{
+				"code": "body, .toc-link {\n    font-family:'Courier New','Weibei SC';\n}",
+				"domains": [
+					"qq.com"
+				]
+			}
+		],
+		"updateDate": 1577790638084,
+		"id": 8,
+		"_id": "8559a6a1-f2f9-4ef0-b92d-81e625263451",
+		"_rev": 1592960549159
+	},
+	{
+		"enabled": true,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
+		"installDate": 1577790825512,
+		"name": "note.youdao.com",
+		"sections": [
+			{
+				"code": "",
+				"urlPrefixes": [
+					"https://note.youdao.com/web/#/"
+				]
+			}
+		],
+		"updateDate": 1577790850624,
+		"id": 9,
+		"_id": "e1dddcc4-6917-4e3b-bbdb-337a3d84b3ca",
+		"_rev": 1581322607071
+	},
+	{
+		"enabled": true,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
+		"installDate": 1577791162116,
+		"name": "oxfordlearnersdictionaries.com",
+		"sections": [
+			{
+				"code": "iframe {\n    display:none;\n}",
+				"domains": [
+					"oxfordlearnersdictionaries.com"
+				]
+			}
+		],
+		"updateDate": 1577791162116,
+		"id": 10,
+		"_id": "e870242d-bbfe-4280-b9a6-aef9c647b3c5",
+		"_rev": 1581322607071
+	},
+	{
+		"enabled": true,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
+		"installDate": 1578049766496,
+		"name": "runoob.com",
+		"sections": [
+			{
+				"code": ".article-body p {\n    font-family:'Courier New','Weibei SC';\n    font-size:16px;\n}\n.article-body h2 {\n     font-family:'Courier New','Weibei SC';\n}\nbody {\n    font-family:'Courier New','Weibei SC';\n}",
+				"domains": [
+					"runoob.com"
+				]
+			}
+		],
+		"updateDate": 1578049957126,
+		"id": 11,
+		"_id": "3ff36506-1966-4b39-a9e7-8896558761e2",
+		"_rev": 1581322607071
+	},
+	{
+		"enabled": true,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
+		"installDate": 1578149352209,
+		"name": "baike.baidu.com",
+		"sections": [
+			{
+				"code": "",
+				"domains": [
+					"https://baike.baidu.com/"
+				]
+			}
+		],
+		"updateDate": 1578149690832,
+		"id": 12,
+		"_id": "7ab3ae75-e290-434e-bd84-2681888636de",
+		"_rev": 1581322607071
+	},
+	{
+		"enabled": true,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
+		"installDate": 1578235907133,
+		"name": "github.com",
+		"sections": [
+			{
+				"code": "body, h1,h2,h3{\n    font-family:'Courier New','Weibei SC';\n}",
+				"urlPrefixes": [
+					"https://github.com/"
+				]
+			}
+		],
+		"updateDate": 1578235907133,
+		"id": 13,
+		"_id": "df9a5daf-615d-478d-b061-c69c887d48c0",
+		"_rev": 1581322607071
+	},
+	{
+		"enabled": true,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
+		"installDate": 1578238122816,
+		"name": "hao123.com",
+		"sections": [
+			{
+				"code": "body {\n    margin-left:-10000px;\n}\n\ntopbeWrapper, .rightTip {\n    display:none;\n}\n\n.bottom-banner-link,.bottom-banner-linkv2{\n    display:none;\n}",
+				"domains": [
+					"hao123.com"
+				]
+			}
+		],
+		"updateDate": 1578238742168,
+		"id": 14,
+		"_id": "2f6af0ae-d541-47e4-86cf-93c3a5dd6d8e",
+		"_rev": 1587289464942
+	},
+	{
+		"enabled": true,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
+		"installDate": 1578278102616,
+		"name": "baidu.com",
+		"sections": [
+			{
+				"code": "body {\n    background-color:#efefef;\n}\n#con-ar, #content_right {\n    display:none;\n}\n#content_left {\n    font-family:'Courier New','Weibei SC';\n}\n/*\n.c-abstract {\n    font-size: 24px;\n}\n*/",
+				"domains": [
+					"baidu.com"
+				]
+			}
+		],
+		"updateDate": 1591779169882,
+		"id": 15,
+		"_id": "f0627ea5-0a3c-4096-a3ee-b7a850c4b3c7",
+		"_rev": 1591779169882
+	},
+	{
+		"enabled": true,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
+		"installDate": 1582121348755,
+		"name": "v.qq.com",
+		"sections": [
+			{
+				"code": "body{\n    display:none;\n}",
+				"urlPrefixes": [
+					"https://v.qq.com/"
+				]
+			}
+		],
+		"updateDate": 1582121348755,
+		"_id": "6ef3b0a5-60ad-4e8e-8d4f-45580a6daab0",
+		"_rev": 1592960547702,
+		"id": 16
+	},
+	{
+		"enabled": false,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
+		"installDate": 1582121398906,
+		"name": "youku.com",
+		"sections": [
+			{
+				"code": "body{\n    display:none;\n}",
+				"domains": [
+					"youku.com"
+				]
+			}
+		],
+		"updateDate": 1582121398906,
+		"_id": "f6c0f6f2-54a7-4a96-9aa2-f69510033ab9",
+		"_rev": 1595861497470,
+		"id": 17
+	},
+	{
+		"enabled": true,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
+		"installDate": 1582121446448,
+		"name": "music.163.com",
+		"sections": [
+			{
+				"code": "body{\n    display:none;\n}",
+				"domains": [
+					"music.163.com"
+				]
+			}
+		],
+		"updateDate": 1582121446448,
+		"_id": "a9043379-ee55-443e-90db-ba06576ae1b2",
+		"_rev": 1582121446448,
+		"id": 18
+	},
+	{
+		"enabled": false,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
+		"installDate": 1582249726646,
+		"name": "weibo.com",
+		"sections": [
+			{
+				"code": "body{\n    display:none;\n}",
+				"domains": [
+					"weibo.com"
+				]
+			}
+		],
+		"updateDate": 1582249726646,
+		"_id": "99e877fd-f03f-43ab-9ff7-5ebece53636b",
+		"_rev": 1584279945912,
+		"id": 19
+	},
+	{
+		"enabled": true,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
+		"installDate": 1582768789047,
+		"name": "qq.com",
+		"sections": [
+			{
+				"code": "body{\n    display:none;\n}",
+				"domains": [
+					"v.qq.com"
+				]
+			}
+		],
+		"updateDate": 1582768789047,
+		"_id": "13486df9-31ae-4574-a692-4ce55c8e75ec",
+		"_rev": 1592960548578,
+		"id": 20
+	},
+	{
+		"enabled": false,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
+		"installDate": 1583035688839,
+		"name": "bilibili.com",
+		"sections": [
+			{
+				"code": "body{\n    display:none;\n}",
+				"domains": [
+					"bilibili.com"
+				]
+			}
+		],
+		"updateDate": 1583035688839,
+		"_id": "2a11cf61-8e3d-4fa0-b287-0285b2596b5c",
+		"_rev": 1596887957423,
+		"id": 21
+	},
+	{
+		"enabled": true,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
+		"installDate": 1585619758466,
+		"name": "www.ldoceonline.com",
+		"sections": [
+			{
+				"code": "#ad_leftslot, \n#ad_topslot,\n#ad_btmslot,\n#ad_rightslot,\n#ad_contentslot_1,\n#ad_contentslot_2, \n#ad_contentslot_3,\n#ad_contentslot_4,\n#ad_contentslot_5,\n#ad_contentslot_7,\n#ad_contentslot_6\n{\n    display:none;\n}",
+				"domains": [
+					"www.ldoceonline.com"
+				]
+			}
+		],
+		"updateDate": 1585620198496,
+		"_id": "2f9e8ad1-3431-47c0-b014-e8d334770d84",
+		"_rev": 1585620198496,
+		"id": 22
+	},
+	{
+		"enabled": true,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
+		"installDate": 1589875930015,
+		"name": "uda.zuoyebang.cc",
+		"sections": [
+			{
+				"code": "body, .textbox-text {\n    font-family:'Courier New','Weibei SC';\n    font-weight:bolder;\n}\n\ndiv.view-line {\n    font-family:'Courier New','Weibei SC';\n    /*font-size:28px;*/\n    font-weight:bolder;\n}\ntd[field=execute_machine] {\n    width:0px;\n}\n\ndatagrid-cell-c1-execute_machine {\n    width:0px;\n}",
+				"domains": [
+					"uda.zuoyebang.cc"
+				]
+			}
+		],
+		"updateDate": 1589877695137,
+		"_id": "0f2729ad-a19f-4fe3-a5d7-c45439a82758",
+		"_rev": 1589877695137,
+		"id": 23
+	},
+	{
+		"enabled": true,
+		"updateUrl": null,
+		"md5Url": null,
+		"url": null,
+		"originalMd5": null,
+		"installDate": 1596335656596,
+		"name": "bilibili.com",
+		"sections": [
+			{
+				"code": "#reco_list,\n#slide_ad, \n#right-bottom-banner, \n#live_recommand_report, \n#activity_vote,\n.international-home,\n.international-footer,\n.proxy-box,\n.storey-box ,\n.b-wrap,\n#reportFirst1,\n#reportFirst2 {\n    display:none;\n}",
+				"domains": [
+					"bilibili.com"
+				]
+			}
+		],
+		"updateDate": 1596945498421,
+		"_id": "301498b9-2bec-426f-9f80-13301a796f9b",
+		"_rev": 1596945498421,
+		"id": 24
+	}
+]
